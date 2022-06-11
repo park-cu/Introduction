@@ -27,3 +27,9 @@
 |1|1|전공필수|이산구조론|3|
 |1|1|기초|컴퓨팅사고-융합|2|
 |1|1|전공선택|소프트웨어세미나I|1|
+
+------
+
+github address: [park-cu][github]
+
+[github]:https://github.com/park-cu
