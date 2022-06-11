@@ -1,3 +1,3 @@
 # 2022 포트폴리오
 ---
-![사진](pcu.jpg)
+<img src=pcu.jpg heihgt=300 width=300>
